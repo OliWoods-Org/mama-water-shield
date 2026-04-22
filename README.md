@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Active">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
   <a href="https://cofounder.software"><img src="https://img.shields.io/badge/Powered_by-CoFounder-06b6d4" alt="Powered by CoFounder"></a>
-  <a href="https://oliwoodsfoundation.org"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="OliWoods Foundation"></a>
+  <a href="https://mama.oliwoods.ai/foundation"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="OliWoods Foundation"></a>
 </p>
 
 <p align="center">
@@ -80,12 +80,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) when available.
 | [MAMA](https://mama.oliwoods.ai) | AI Chief of Staff — 85+ agent teams |
 | [CoFounder](https://cofounder.software) | AI agent marketplace |
 | [MAMA AI Clinic](https://github.com/OliWoods-Org/mama-ai-clinic) | $170 offline health clinic for Raspberry Pi |
-| [OliWoods Foundation](https://oliwoodsfoundation.org) | Open-source AI for humanitarian impact |
+| [OliWoods Foundation](https://mama.oliwoods.ai/foundation) | Open-source AI for humanitarian impact |
 
 ---
 
 <p align="center">
-  <strong>An <a href="https://oliwoodsfoundation.org">OliWoods Foundation</a> Project</strong>
+  <strong>An <a href="https://mama.oliwoods.ai/foundation">OliWoods Foundation</a> Project</strong>
   <br><em>Open-source AI tools for humanitarian and public good</em>
   <br><br>
   <sub>
